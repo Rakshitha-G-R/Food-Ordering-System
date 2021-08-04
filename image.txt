@@ -1,0 +1,6 @@
+1|Images/pizza.jpg
+2|Images/pasta.jpg
+3|Images/momo.jpg
+4|Images/fries.jpg
+5|Images/apie.jpg
+6|Images/chocomousse.jpg

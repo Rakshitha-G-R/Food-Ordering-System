@@ -1,0 +1,14 @@
+Dhruv|Fries|Sarjapur,Bangalore|80
+Shejal|Fries|Jayanagar,Bangalore|80
+Rakshitha|Dumplings|Nisarga,Bangalore|60
+Dhruv|Pizza|Sarjapur,Bangalore|350
+Shejal|Fries|Jayanagar,Bangalore|80
+Shejal|Roll|Jayanagar,Bangalore|40
+Shejal|Roll|Jayanagar,Bangalore|40
+Shejal|Meurig|Jayanagar,Bangalore|60
+Shejal|Meurig|Jayanagar,Bangalore|120
+Shejal|Apie|Jayanagar,Bangalore|1205
+Shejal|Roll|Jayanagar,Bangalore|403
+Shejal|Roll|Jayanagar,Bangalore|403
+Shejal|Meurig|Jayanagar,Bangalore|603
+Rakshitha|Meurig Fish|Nisarga,Bangalore|
